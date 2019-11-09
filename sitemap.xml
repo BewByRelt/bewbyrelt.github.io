@@ -3,118 +3,123 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>bewbyrelt.github.io/author/</loc>
+    <loc>tylerwebb.org/author/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/blog/</loc>
+    <loc>tylerwebb.org/blog/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/categories/</loc>
+    <loc>tylerwebb.org/categories/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/tags/daily-driver/</loc>
+    <loc>tylerwebb.org/tags/daily-driver/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/tags/hugo/</loc>
+    <loc>tylerwebb.org/tags/hugo/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/tags/laptop/</loc>
+    <loc>tylerwebb.org/tags/laptop/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/tags/lenovo/</loc>
+    <loc>tylerwebb.org/tags/lenovo/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/blog/daily-driver/</loc>
+    <loc>tylerwebb.org/blog/daily-driver/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/categories/starting/</loc>
+    <loc>tylerwebb.org/categories/starting/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/tags/</loc>
+    <loc>tylerwebb.org/tags/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/author/tyler-webb/</loc>
+    <loc>tylerwebb.org/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/</loc>
+    <loc>tylerwebb.org/author/tyler-webb/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/blog/are-you-doing-the-right-way/</loc>
+    <loc>tylerwebb.org/blog/are-you-doing-the-right-way/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/author/john-doe/</loc>
+    <loc>tylerwebb.org/author/john-doe/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/blog/simple-post-title/</loc>
+    <loc>tylerwebb.org/blog/simple-post-title/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/author/somrat/</loc>
+    <loc>tylerwebb.org/author/somrat/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/author/jamica-jock/</loc>
+    <loc>tylerwebb.org/author/jamica-jock/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/blog/simple-image-post-copy/</loc>
+    <loc>tylerwebb.org/blog/simple-image-post-copy/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/blog/simple-image-post/</loc>
+    <loc>tylerwebb.org/blog/simple-image-post/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/tags/golang/</loc>
+    <loc>tylerwebb.org/blog/riviera/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/blog/installation/</loc>
+    <loc>tylerwebb.org/tags/golang/</loc>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/tags/programming/</loc>
+    <loc>tylerwebb.org/blog/installation/</loc>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/tags/theme/</loc>
+    <loc>tylerwebb.org/tags/programming/</loc>
   </url>
   
   <url>
-    <loc>bewbyrelt.github.io/author/themefisher/</loc>
+    <loc>tylerwebb.org/tags/theme/</loc>
+  </url>
+  
+  <url>
+    <loc>tylerwebb.org/author/themefisher/</loc>
   </url>
   
 </urlset>
