@@ -4,17 +4,62 @@
   
   <url>
     <loc>tylerwebb.org/author/</loc>
-    <lastmod>2019-11-03T21:49:20+02:00</lastmod>
+    <lastmod>2019-11-08T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tylerwebb.org/tags/aws/</loc>
+    <lastmod>2019-11-08T21:49:20+02:00</lastmod>
   </url>
   
   <url>
     <loc>tylerwebb.org/blog/</loc>
-    <lastmod>2019-11-03T21:49:20+02:00</lastmod>
+    <lastmod>2019-11-08T21:49:20+02:00</lastmod>
   </url>
   
   <url>
     <loc>tylerwebb.org/categories/</loc>
-    <lastmod>2019-11-03T21:49:20+02:00</lastmod>
+    <lastmod>2019-11-08T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tylerwebb.org/tags/programming/</loc>
+    <lastmod>2019-11-08T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tylerwebb.org/tags/python/</loc>
+    <lastmod>2019-11-08T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tylerwebb.org/categories/starting/</loc>
+    <lastmod>2019-11-08T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tylerwebb.org/tags/</loc>
+    <lastmod>2019-11-08T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tylerwebb.org/</loc>
+    <lastmod>2019-11-08T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tylerwebb.org/author/tyler-webb/</loc>
+    <lastmod>2019-11-08T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tylerwebb.org/tags/website/</loc>
+    <lastmod>2019-11-08T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tylerwebb.org/blog/riviera/</loc>
+    <lastmod>2019-11-08T21:49:20+02:00</lastmod>
   </url>
   
   <url>
@@ -39,26 +84,6 @@
   
   <url>
     <loc>tylerwebb.org/blog/daily-driver/</loc>
-    <lastmod>2019-11-03T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>tylerwebb.org/categories/starting/</loc>
-    <lastmod>2019-11-03T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>tylerwebb.org/tags/</loc>
-    <lastmod>2019-11-03T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>tylerwebb.org/</loc>
-    <lastmod>2019-11-03T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>tylerwebb.org/author/tyler-webb/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
@@ -98,20 +123,11 @@
   </url>
   
   <url>
-    <loc>tylerwebb.org/blog/riviera/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>tylerwebb.org/tags/golang/</loc>
   </url>
   
   <url>
     <loc>tylerwebb.org/blog/installation/</loc>
-  </url>
-  
-  <url>
-    <loc>tylerwebb.org/tags/programming/</loc>
   </url>
   
   <url>
