@@ -2,57 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on Tyler Webb</title>
-    <link>https://tylerwebb.org/author/</link>
+    <link>https://tylerwebb.org/f/author/</link>
     <description>Recent content in Author on Tyler Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Nov 2019 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://tylerwebb.org/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tylerwebb.org/f/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tyler Webb</title>
-      <link>https://tylerwebb.org/author/tyler-webb/</link>
+      <link>https://tylerwebb.org/f/author/tyler-webb/</link>
       <pubDate>Fri, 08 Nov 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://tylerwebb.org/author/tyler-webb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John Doe</title>
-      <link>https://tylerwebb.org/author/john-doe/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>https://tylerwebb.org/author/john-doe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Somrat</title>
-      <link>https://tylerwebb.org/author/somrat/</link>
-      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
-      
-      <guid>https://tylerwebb.org/author/somrat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jamica Jock</title>
-      <link>https://tylerwebb.org/author/jamica-jock/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://tylerwebb.org/author/jamica-jock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themefisher</title>
-      <link>https://tylerwebb.org/author/themefisher/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tylerwebb.org/author/themefisher/</guid>
+      <guid>https://tylerwebb.org/f/author/tyler-webb/</guid>
       <description></description>
     </item>
     
