@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lenovo on Tyler Webb</title>
-    <link>https://tylerwebb.org/f/tags/lenovo/</link>
+    <link>https://tylerwebb.org/tags/lenovo/</link>
     <description>Recent content in lenovo on Tyler Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Nov 2019 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://tylerwebb.org/f/tags/lenovo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tylerwebb.org/tags/lenovo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Daily Driver Laptop</title>
-      <link>https://tylerwebb.org/f/blog/daily-driver/</link>
+      <link>https://tylerwebb.org/blog/daily-driver/</link>
       <pubDate>Sun, 03 Nov 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://tylerwebb.org/f/blog/daily-driver/</guid>
+      <guid>https://tylerwebb.org/blog/daily-driver/</guid>
       <description>Lenovo X1 Extreme Gen 1: I daily drive the Lenovo X1 Extreme Gen 1.</description>
     </item>
     

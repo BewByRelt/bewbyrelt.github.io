@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tyler Webb</title>
-    <link>https://tylerwebb.org/f/author/tyler-webb/</link>
+    <link>https://tylerwebb.org/author/tyler-webb/</link>
     <description>Recent content on Tyler Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Nov 2019 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://tylerwebb.org/f/author/tyler-webb/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tylerwebb.org/author/tyler-webb/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Website Uptime Monitoring with Riviera</title>
-      <link>https://tylerwebb.org/f/blog/riviera/</link>
+      <link>https://tylerwebb.org/blog/riviera/</link>
       <pubDate>Fri, 08 Nov 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://tylerwebb.org/f/blog/riviera/</guid>
+      <guid>https://tylerwebb.org/blog/riviera/</guid>
       <description>Riviera Riviera is designed to be a quick to deploy stack that monitors webpage outages for a specific list of domains.</description>
     </item>
     
     <item>
       <title>My Daily Driver Laptop</title>
-      <link>https://tylerwebb.org/f/blog/daily-driver/</link>
+      <link>https://tylerwebb.org/blog/daily-driver/</link>
       <pubDate>Sun, 03 Nov 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://tylerwebb.org/f/blog/daily-driver/</guid>
+      <guid>https://tylerwebb.org/blog/daily-driver/</guid>
       <description>Lenovo X1 Extreme Gen 1: I daily drive the Lenovo X1 Extreme Gen 1.</description>
     </item>
     

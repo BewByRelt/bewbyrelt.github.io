@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tyler Webb</title>
-    <link>https://tylerwebb.org/f/tags/</link>
+    <link>https://tylerwebb.org/tags/</link>
     <description>Recent content in Tags on Tyler Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Nov 2019 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://tylerwebb.org/f/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tylerwebb.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS</title>
-      <link>https://tylerwebb.org/f/tags/aws/</link>
+      <link>https://tylerwebb.org/tags/aws/</link>
       <pubDate>Fri, 08 Nov 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://tylerwebb.org/f/tags/aws/</guid>
+      <guid>https://tylerwebb.org/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>https://tylerwebb.org/f/tags/programming/</link>
+      <link>https://tylerwebb.org/tags/programming/</link>
       <pubDate>Fri, 08 Nov 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://tylerwebb.org/f/tags/programming/</guid>
+      <guid>https://tylerwebb.org/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://tylerwebb.org/f/tags/python/</link>
+      <link>https://tylerwebb.org/tags/python/</link>
       <pubDate>Fri, 08 Nov 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://tylerwebb.org/f/tags/python/</guid>
+      <guid>https://tylerwebb.org/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>website</title>
-      <link>https://tylerwebb.org/f/tags/website/</link>
+      <link>https://tylerwebb.org/tags/website/</link>
       <pubDate>Fri, 08 Nov 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://tylerwebb.org/f/tags/website/</guid>
+      <guid>https://tylerwebb.org/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>daily-driver</title>
-      <link>https://tylerwebb.org/f/tags/daily-driver/</link>
+      <link>https://tylerwebb.org/tags/daily-driver/</link>
       <pubDate>Sun, 03 Nov 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://tylerwebb.org/f/tags/daily-driver/</guid>
+      <guid>https://tylerwebb.org/tags/daily-driver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://tylerwebb.org/f/tags/hugo/</link>
+      <link>https://tylerwebb.org/tags/hugo/</link>
       <pubDate>Sun, 03 Nov 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://tylerwebb.org/f/tags/hugo/</guid>
+      <guid>https://tylerwebb.org/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>laptop</title>
-      <link>https://tylerwebb.org/f/tags/laptop/</link>
+      <link>https://tylerwebb.org/tags/laptop/</link>
       <pubDate>Sun, 03 Nov 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://tylerwebb.org/f/tags/laptop/</guid>
+      <guid>https://tylerwebb.org/tags/laptop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lenovo</title>
-      <link>https://tylerwebb.org/f/tags/lenovo/</link>
+      <link>https://tylerwebb.org/tags/lenovo/</link>
       <pubDate>Sun, 03 Nov 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://tylerwebb.org/f/tags/lenovo/</guid>
+      <guid>https://tylerwebb.org/tags/lenovo/</guid>
       <description></description>
     </item>
     

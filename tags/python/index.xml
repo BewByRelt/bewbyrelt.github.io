@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>python on Tyler Webb</title>
-    <link>https://tylerwebb.org/f/tags/python/</link>
+    <link>https://tylerwebb.org/tags/python/</link>
     <description>Recent content in python on Tyler Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Nov 2019 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://tylerwebb.org/f/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tylerwebb.org/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Website Uptime Monitoring with Riviera</title>
-      <link>https://tylerwebb.org/f/blog/riviera/</link>
+      <link>https://tylerwebb.org/blog/riviera/</link>
       <pubDate>Fri, 08 Nov 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://tylerwebb.org/f/blog/riviera/</guid>
+      <guid>https://tylerwebb.org/blog/riviera/</guid>
       <description>Riviera Riviera is designed to be a quick to deploy stack that monitors webpage outages for a specific list of domains.</description>
     </item>
     
