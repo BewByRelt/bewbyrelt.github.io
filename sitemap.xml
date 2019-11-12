@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tylerwebb.org/tags/.png/</loc>
+    <lastmod>2019-11-10T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/.tiff/</loc>
+    <lastmod>2019-11-10T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tylerwebb.org/author/</loc>
+    <lastmod>2019-11-10T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/blog/post3/</loc>
     <lastmod>2019-11-10T21:49:20+02:00</lastmod>
   </url>
   
@@ -18,27 +33,7 @@
   </url>
   
   <url>
-    <loc>https://tylerwebb.org/tags/daily-driver/</loc>
-    <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tylerwebb.org/tags/hugo/</loc>
-    <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tylerwebb.org/tags/laptop/</loc>
-    <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tylerwebb.org/tags/lenovo/</loc>
-    <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tylerwebb.org/blog/post3/</loc>
+    <loc>https://tylerwebb.org/tags/image-magick/</loc>
     <lastmod>2019-11-10T21:49:20+02:00</lastmod>
   </url>
   
@@ -85,6 +80,26 @@
   <url>
     <loc>https://tylerwebb.org/blog/riviera/</loc>
     <lastmod>2019-11-08T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/daily-driver/</loc>
+    <lastmod>2019-11-03T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/hugo/</loc>
+    <lastmod>2019-11-03T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/laptop/</loc>
+    <lastmod>2019-11-03T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/lenovo/</loc>
+    <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
   
   <url>
