@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Tyler Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Nov 2019 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://tylerwebb.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>book</title>
+      <link>https://tylerwebb.org/tags/book/</link>
+      <pubDate>Mon, 09 Dec 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://tylerwebb.org/tags/devops/</link>
+      <pubDate>Mon, 09 Dec 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phoenix Project</title>
+      <link>https://tylerwebb.org/tags/phoenix-project/</link>
+      <pubDate>Mon, 09 Dec 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/tags/phoenix-project/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>.png</title>

@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tylerwebb.org/author/</loc>
+    <lastmod>2019-12-09T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/blog/</loc>
+    <lastmod>2019-12-09T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/book/</loc>
+    <lastmod>2019-12-09T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/categories/books/</loc>
+    <lastmod>2019-12-09T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/categories/</loc>
+    <lastmod>2019-12-09T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/devops/</loc>
+    <lastmod>2019-12-09T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/phoenix-project/</loc>
+    <lastmod>2019-12-09T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/blog/phoenix_project/</loc>
+    <lastmod>2019-12-09T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/</loc>
+    <lastmod>2019-12-09T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/</loc>
+    <lastmod>2019-12-09T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/author/tyler-webb/</loc>
+    <lastmod>2019-12-09T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tylerwebb.org/tags/.png/</loc>
     <lastmod>2019-11-10T21:49:20+02:00</lastmod>
   </url>
@@ -13,22 +68,7 @@
   </url>
   
   <url>
-    <loc>https://tylerwebb.org/author/</loc>
-    <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tylerwebb.org/blog/image_conversion/</loc>
-    <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tylerwebb.org/blog/</loc>
-    <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tylerwebb.org/categories/</loc>
     <lastmod>2019-11-10T21:49:20+02:00</lastmod>
   </url>
   
@@ -39,21 +79,6 @@
   
   <url>
     <loc>https://tylerwebb.org/categories/starting/</loc>
-    <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tylerwebb.org/tags/</loc>
-    <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tylerwebb.org/author/tyler-webb/</loc>
-    <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tylerwebb.org/</loc>
     <lastmod>2019-11-10T21:49:20+02:00</lastmod>
   </url>
   
