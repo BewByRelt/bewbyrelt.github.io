@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Tyler Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2019 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://tylerwebb.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,36 @@
     <item>
       <title>book</title>
       <link>https://tylerwebb.org/tags/book/</link>
-      <pubDate>Mon, 09 Dec 2019 21:49:20 +0200</pubDate>
+      <pubDate>Fri, 20 Dec 2019 21:49:20 +0200</pubDate>
       
       <guid>https://tylerwebb.org/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://tylerwebb.org/tags/development/</link>
+      <pubDate>Fri, 20 Dec 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://tylerwebb.org/tags/software/</link>
+      <pubDate>Fri, 20 Dec 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unicorn Project</title>
+      <link>https://tylerwebb.org/tags/unicorn-project/</link>
+      <pubDate>Fri, 20 Dec 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/tags/unicorn-project/</guid>
       <description></description>
     </item>
     

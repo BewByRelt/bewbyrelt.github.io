@@ -6,10 +6,19 @@
     <description>Recent content in book on Tyler Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2019 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://tylerwebb.org/tags/book/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Review of The Unicorn Project: A Novel about Developers, Digital Distribution, and Thriving in the Digital Age of Data </title>
+      <link>https://tylerwebb.org/blog/unicorn_project/</link>
+      <pubDate>Fri, 20 Dec 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/blog/unicorn_project/</guid>
+      <description>The Unicorn Project is written as a quasi-sequel to the widely popular book, The Phoenix Project.</description>
+    </item>
     
     <item>
       <title>Review of The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win </title>
