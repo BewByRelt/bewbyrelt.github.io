@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kubernetes on Tyler Webb</title>
+    <link>https://tylerwebb.org/tags/kubernetes/</link>
+    <description>Recent content in kubernetes on Tyler Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2020 18:44:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://tylerwebb.org/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kubernetes: Containerization on Steroids</title>
+      <link>https://tylerwebb.org/blog/kubernetes_crash_course/</link>
+      <pubDate>Wed, 11 Mar 2020 18:44:20 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/blog/kubernetes_crash_course/</guid>
+      <description>KUBERNETES: In the quest to further abstract the technology stack and help developers deploy and scale their applications better than ever, I present to you Kubernetes.</description>
+    </item>
+    
+  </channel>
+</rss>

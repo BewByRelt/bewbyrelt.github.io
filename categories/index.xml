@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Tyler Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2019 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 18:44:20 +0200</lastBuildDate>
     
 	<atom:link href="https://tylerwebb.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>starting</title>
+      <link>https://tylerwebb.org/categories/starting/</link>
+      <pubDate>Wed, 11 Mar 2020 18:44:20 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/categories/starting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>books</title>
@@ -17,15 +26,6 @@
       <pubDate>Fri, 20 Dec 2019 21:49:20 +0200</pubDate>
       
       <guid>https://tylerwebb.org/categories/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>starting</title>
-      <link>https://tylerwebb.org/categories/starting/</link>
-      <pubDate>Sun, 10 Nov 2019 21:49:20 +0200</pubDate>
-      
-      <guid>https://tylerwebb.org/categories/starting/</guid>
       <description></description>
     </item>
     
