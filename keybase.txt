@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tylerwebb2048
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tylerwebb.org
+  * I am tylerwebb2048 (https://keybase.io/tylerwebb2048) on keybase.
+  * I have a public key ASD_agXRnWgTiIUnowjx03r16vcgSHp5TgsFIbRWx0AVjgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fb5809e1200e1d42fed02bafce45f76a504364ee7065d5d28bc733adbb6740520a",
+      "host": "keybase.io",
+      "kid": "0120ff6a05d19d6813888527a308f1d37af5eaf720487a794e0b0521b456c740158e0a",
+      "uid": "25e060e04f3e79f7601dd22c57327119",
+      "username": "tylerwebb2048"
+    },
+    "merkle_root": {
+      "ctime": 1587006774,
+      "hash": "0fb888d7656f9145752b6c3cd4c0dd62642561536683a2efa51d850e1801eadb49edc29ee2cfe1935a3e5c4ef9301d118cdbfb68e049d815d97d79b578b58fb4",
+      "hash_meta": "d6692d633873b3d451b195e557f6a9ff56600663feff2a69933233ba81f09a91",
+      "seqno": 15937703
+    },
+    "service": {
+      "entropy": "k4yIR+XbSJtQAne2Yb8il7N9",
+      "hostname": "tylerwebb.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1587006792,
+  "expire_in": 504576000,
+  "prev": "af5f9fc82338c5c5c0ef23dadb3bbbd3b8e720d1c6892e69205f3aa1a55d8f36",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/2oF0Z1oE4iFJ6MI8dN69er3IEh6eU4LBSG0VsdAFY4Kp3BheWxvYWTESpcCEcQgr1+fyCM4xcXA7yPa2zu707jnINHGiS5pIF86oaVdjzbEIHQNpOaJg0SCeNypi3MMd6qRWP8qiYd8elRxh8azw/LzAgHCo3NpZ8RAeX9UYa2ItEBWCb10ZS8F6czByeRjGJh0398TkPwZeFdxHn4qt/UxPmDfL6zU7+OCr6H93u7RINUxCioEyfijCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEg0eK6umCzr3abf3TTyXJ4h0rLIC/7Z186Y+ydncPuBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tylerwebb2048
+
+==================================================================
