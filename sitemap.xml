@@ -4,22 +4,97 @@
   
   <url>
     <loc>https://tylerwebb.org/author/</loc>
-    <lastmod>2020-04-22T21:49:20+02:00</lastmod>
+    <lastmod>2020-06-13T09:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://tylerwebb.org/blog/</loc>
-    <lastmod>2020-04-22T21:49:20+02:00</lastmod>
+    <lastmod>2020-06-13T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/book/</loc>
+    <lastmod>2020-06-13T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/categories/books/</loc>
+    <lastmod>2020-06-13T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/brad-smith/</loc>
+    <lastmod>2020-06-13T09:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://tylerwebb.org/categories/</loc>
-    <lastmod>2020-04-22T21:49:20+02:00</lastmod>
+    <lastmod>2020-06-13T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/ethics/</loc>
+    <lastmod>2020-06-13T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/</loc>
+    <lastmod>2020-06-13T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/tools-and-weapons/</loc>
+    <lastmod>2020-06-13T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/blog/tools_and_weapons_part_1_privacy/</loc>
+    <lastmod>2020-06-13T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/author/tyler-webb/</loc>
+    <lastmod>2020-06-13T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/</loc>
+    <lastmod>2020-06-13T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/ceres/</loc>
+    <lastmod>2020-06-13T08:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://tylerwebb.org/tags/computing/</loc>
-    <lastmod>2020-04-22T21:49:20+02:00</lastmod>
+    <lastmod>2020-06-13T08:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/github/</loc>
+    <lastmod>2020-06-13T08:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/blog/ceres/</loc>
+    <lastmod>2020-06-13T08:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/open-source/</loc>
+    <lastmod>2020-06-13T08:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/categories/open_source/</loc>
+    <lastmod>2020-06-13T08:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerwebb.org/tags/visual-regression-testing/</loc>
+    <lastmod>2020-06-13T08:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -48,21 +123,6 @@
   </url>
   
   <url>
-    <loc>https://tylerwebb.org/tags/</loc>
-    <lastmod>2020-04-22T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tylerwebb.org/</loc>
-    <lastmod>2020-04-22T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tylerwebb.org/author/tyler-webb/</loc>
-    <lastmod>2020-04-22T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tylerwebb.org/tags/containerization/</loc>
     <lastmod>2020-03-11T18:44:20+02:00</lastmod>
   </url>
@@ -75,16 +135,6 @@
   <url>
     <loc>https://tylerwebb.org/blog/kubernetes_crash_course/</loc>
     <lastmod>2020-03-11T18:44:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tylerwebb.org/tags/book/</loc>
-    <lastmod>2019-12-20T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tylerwebb.org/categories/books/</loc>
-    <lastmod>2019-12-20T21:49:20+02:00</lastmod>
   </url>
   
   <url>

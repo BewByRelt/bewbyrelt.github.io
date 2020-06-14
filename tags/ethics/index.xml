@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethics on Tyler Webb</title>
+    <link>https://tylerwebb.org/tags/ethics/</link>
+    <description>Recent content in Ethics on Tyler Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jun 2020 09:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://tylerwebb.org/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tools and Weapons Review Part 1: A Discussion about Privacy</title>
+      <link>https://tylerwebb.org/blog/tools_and_weapons_part_1_privacy/</link>
+      <pubDate>Sat, 13 Jun 2020 09:00:00 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/blog/tools_and_weapons_part_1_privacy/</guid>
+      <description>Within Tools and Weapons is a treasure trove of knowledge about how to appropriately balance the exhilarating speed, agility, and enabling power of technical innovation with the important aspects of protecting human rights and working towards the benefit of society.</description>
+    </item>
+    
+  </channel>
+</rss>
