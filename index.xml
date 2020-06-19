@@ -6,10 +6,19 @@
     <description>Recent content on Tyler Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2020 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://tylerwebb.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tools and Weapons Review Part 2: Security in a Digital World</title>
+      <link>https://tylerwebb.org/blog/tools_and_weapons_part_2_cybersecurity/</link>
+      <pubDate>Fri, 19 Jun 2020 09:00:00 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/blog/tools_and_weapons_part_2_cybersecurity/</guid>
+      <description>Cyber Security: The Wake-up Call for the World Humans love shortcuts.</description>
+    </item>
     
     <item>
       <title>Tools and Weapons Review Part 1: A Discussion about Privacy</title>
