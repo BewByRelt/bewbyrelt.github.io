@@ -6,7 +6,7 @@
 
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="generator" content="Hugo 0.59.0" />
+    <meta name="generator" content="Hugo 0.73.0" />
 
     <title>Batch Conversion .tiff to .png | Blogs</title>
 
@@ -96,19 +96,12 @@
             <div class="col-lg-8 offset-lg-2">
                 <div class="post-single-content post-color">
                     <p>I recently worked with a company to convert a large number of high resolution photos in the .tiff format to the more usable 4096x2160 in the .png format. I looked into a lot of solutions and finally settled on <a href="https://www.imagemagick.org/script/download.php">Image Magick</a> for it&rsquo;s low overhead and high customability. I used the Image Magick CLI tool which was easy to install on the remote Windows platform I was working on.</p>
-
 <p>I wrote two .bat files. One converts the photos at original quality and the other converts the photos to a lower resolution.</p>
-
 <p>Original Resolution</p>
-
 <p><code>magick mogrify -format png -path &quot;./Original_Resolution&quot; *.tiff</code></p>
-
 <p>Lower Resolution</p>
-
 <p><code>magick mogrify -format png -path &quot;./Lower_Resolution&quot; -resize 1920x1080 *.tiff</code></p>
-
 <p>Check out the repo: <a href="https://github.com/tylerwebb2048/.tiff-2-.png-scripts">.tiff-2.png-scripts</a></p>
-
 <p><em>Photo Credit: <a href="https://imagemagick.org/index.php">https://imagemagick.org/index.php</a></em></p>
 
                     

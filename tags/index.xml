@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Tyler Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2020 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2020 08:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://tylerwebb.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>book</title>
       <link>https://tylerwebb.org/tags/book/</link>
-      <pubDate>Fri, 19 Jun 2020 09:00:00 +0200</pubDate>
+      <pubDate>Thu, 25 Jun 2020 08:00:00 +0200</pubDate>
       
       <guid>https://tylerwebb.org/tags/book/</guid>
       <description></description>
@@ -23,9 +23,54 @@
     <item>
       <title>Brad Smith</title>
       <link>https://tylerwebb.org/tags/brad-smith/</link>
-      <pubDate>Fri, 19 Jun 2020 09:00:00 +0200</pubDate>
+      <pubDate>Thu, 25 Jun 2020 08:00:00 +0200</pubDate>
       
       <guid>https://tylerwebb.org/tags/brad-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft</title>
+      <link>https://tylerwebb.org/tags/microsoft/</link>
+      <pubDate>Thu, 25 Jun 2020 08:00:00 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rural broadband</title>
+      <link>https://tylerwebb.org/tags/rural-broadband/</link>
+      <pubDate>Thu, 25 Jun 2020 08:00:00 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/tags/rural-broadband/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpaceX</title>
+      <link>https://tylerwebb.org/tags/spacex/</link>
+      <pubDate>Thu, 25 Jun 2020 08:00:00 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/tags/spacex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starlink</title>
+      <link>https://tylerwebb.org/tags/starlink/</link>
+      <pubDate>Thu, 25 Jun 2020 08:00:00 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/tags/starlink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools and Weapons</title>
+      <link>https://tylerwebb.org/tags/tools-and-weapons/</link>
+      <pubDate>Thu, 25 Jun 2020 08:00:00 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/tags/tools-and-weapons/</guid>
       <description></description>
     </item>
     
@@ -35,15 +80,6 @@
       <pubDate>Fri, 19 Jun 2020 09:00:00 +0200</pubDate>
       
       <guid>https://tylerwebb.org/tags/ethics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tools and Weapons</title>
-      <link>https://tylerwebb.org/tags/tools-and-weapons/</link>
-      <pubDate>Fri, 19 Jun 2020 09:00:00 +0200</pubDate>
-      
-      <guid>https://tylerwebb.org/tags/tools-and-weapons/</guid>
       <description></description>
     </item>
     

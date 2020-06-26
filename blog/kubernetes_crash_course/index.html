@@ -6,7 +6,7 @@
 
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="generator" content="Hugo 0.59.0" />
+    <meta name="generator" content="Hugo 0.73.0" />
 
     <title>Kubernetes: Containerization on Steroids | Blogs</title>
 
@@ -95,58 +95,32 @@
             </div>
             <div class="col-lg-8 offset-lg-2">
                 <div class="post-single-content post-color">
-                    
-
-<h2 id="kubernetes">KUBERNETES:</h2>
-
-<hr />
-
+                    <h2 id="kubernetes">KUBERNETES:</h2>
+<hr>
 <p>In the quest to further abstract the technology stack and help developers deploy and scale their applications better than ever, I present to you <a href="https://kubernetes.io/">Kubernetes</a>. Kubernetes is a leader in the technical segment of container orchestration and is designed to be run on many types of platforms and runtimes. As one of the top contributed to projects on GitHub, Kubernetes is an open-source wonder having spun off from the Borg project at Google. Kubernetes is written in <a href="https://golang.org/">Golang</a> and is used by companies such as Capital One, eBay, and Spotify.</p>
-
 <p>A key ingredient to the way that Kubernetes handles loads and scaling is the concept of containerization of environments. Containers are a clever way to bundle together the software and dependencies required to run a service repeatedly and reliability. If configured correctly, containers also lend themselves well to auto-scaling. This allows for repeated deployment without having to worry about changes to the runtime or changes to the code base or dependencies. Containers can be hosted in repositories and pulled down when needed.</p>
-
 <p>Containers oftentimes get confused with the concept of a virtual machine. The key difference between these two virtualization technologies is the concept of a shared kernel. Where virtual machines are deployed having separate user spaces and separate kernels, containers share kernels while keeping their processes and user spaces separate.</p>
-
 <p>A very popular containerization tool is called <a href="https://www.docker.com/">Docker</a>. Docker bundles together the code required for building and running applications and creates an image which can be deployed in the same state repeatably. Docker is the containerization tool that Kubernetes most often takes advantage of.</p>
-
 <p>Kubernetes takes advantage of these characteristics of containers in order to perform tasks at scale. The architecture of Kubernetes is broken down into a few key pieces which make up a Kubernetes Cluster.</p>
-
-<p><img src="/images/blog/nodes_and_pods.png" alt="Nodes and Pods Diagram" />
+<p><img src="/images/blog/nodes_and_pods.png" alt="Nodes and Pods Diagram">
 Source: <a href="https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/">Nodes and Pods Image</a></p>
-
 <h3 id="pods">Pods:</h3>
-
-<hr />
-
+<hr>
 <p>A pod is a grouping of one or more containers that share storage and network resources. Each pod also has a specification about how to run the containers it controls. These containers within a pod are able to find each other via a localhost connection. In order to directly talk to other containers in different pods, the configuration needs to be setup specifically to allow this. In many ways a pod is similar to an abstracted version of a machine host.</p>
-
 <p>Pods allow easier management and simplify deployment. One pod deploys multiple resources and can be deployed repeatably to accomplish the same or similar tasks at scale. Pods take advantage of many of the underlying advantages of infrastructure as templates.</p>
-
 <h3 id="nodes">Nodes:</h3>
-
-<hr />
-
+<hr>
 <p>A node is also referred to as a minion (or sometimes worker). This is the machine that the containers and pods are deployed on top of. The node needs to have a runtime installed such as Docker. Each node is managed by the Kubernetes master and each node can contain multiple pods.</p>
-
 <p>Two important parts of the node are the Kubelet and the Container runtime. The Kubelet takes responsibility for communicating between the Kubernetes master and the node. The runtime pulls down the container repositories from an image registry (like Docker Hub), unpacks the container, and runs the application.</p>
-
 <h3 id="kubernetes-master">Kubernetes Master:</h3>
-
-<hr />
-
+<hr>
 <p>The Kubernetes Master is a specialized node which takes responsibility for the overall coordination of the cluster. It runs three main processes. These are the kube-apiserver, the kube-controller-manager, and the kube-scheduler. The kube-apiserver handles the REST operations for the cluster. The kube-controller-manager keeps a virtual eye on the cluster’s current state and takes actions to bring it the desired state if things get off track. The kube-scheduler has a large impact on the availability, performance, and capacity of the cluster as it accounts for the current state and schedules changes accordingly.</p>
-
 <h3 id="takeaways">Takeaways:</h3>
-
-<hr />
-
+<hr>
 <p>Each of these components of a Kubernetes cluster is critical to the success of the container orchestration. Containers can be spun up as demand increases, some level of resiliency can be had with multiple pods running on separate nodes.</p>
-
 <p>Kubernetes may not be the tool of choice when it comes to running a singular process, but when you have a fully fledged application running on multiple languages, each with their own separate dependencies and runtime requirements, each referencing a series of databases and requiring specific permissions, a Kubernetes cluster is definitely an viable option to consider.</p>
-
 <p>Learn more from this 5 minute introduction to Kubernetes from VMWare:</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PH-2FfFD2PU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="embed-responsive embed-responsive-16by9"></iframe>
+<!-- raw HTML omitted -->
 
                     
                         
