@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artifical Intelligence on Tyler Webb</title>
+    <link>https://tylerwebb.org/tags/artifical-intelligence/</link>
+    <description>Recent content in Artifical Intelligence on Tyler Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2020 09:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://tylerwebb.org/tags/artifical-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tools and Weapons Review Part 2: Security in a Digital World</title>
+      <link>https://tylerwebb.org/blog/tools_and_weapons_part_2_cybersecurity/</link>
+      <pubDate>Fri, 19 Jun 2020 09:00:00 +0200</pubDate>
+      
+      <guid>https://tylerwebb.org/blog/tools_and_weapons_part_2_cybersecurity/</guid>
+      <description>Cyber Security: The Wake-up Call for the World  Humans love shortcuts.</description>
+    </item>
+    
+  </channel>
+</rss>
