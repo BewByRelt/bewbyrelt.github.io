@@ -1,265 +1,161 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://tylerwebb.org/tags/artificial-intelligence/</loc>
     <lastmod>2020-07-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/author/</loc>
     <lastmod>2020-07-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/blog/</loc>
     <lastmod>2020-07-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/book/</loc>
     <lastmod>2020-07-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/categories/books/</loc>
     <lastmod>2020-07-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/brad-smith/</loc>
     <lastmod>2020-07-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/categories/</loc>
     <lastmod>2020-07-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/</loc>
     <lastmod>2020-07-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/tools-and-weapons/</loc>
     <lastmod>2020-07-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/blog/tools_and_weapons_part_4_artificial_intelligence/</loc>
     <lastmod>2020-07-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/author/tyler-webb/</loc>
     <lastmod>2020-07-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/</loc>
     <lastmod>2020-07-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/microsoft/</loc>
     <lastmod>2020-06-25T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/rural-broadband/</loc>
     <lastmod>2020-06-25T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/spacex/</loc>
     <lastmod>2020-06-25T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/starlink/</loc>
     <lastmod>2020-06-25T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/blog/tools_and_weapons_part_3_connecting_the_world/</loc>
     <lastmod>2020-06-25T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/artifical-intelligence/</loc>
     <lastmod>2020-06-19T09:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/ethics/</loc>
     <lastmod>2020-06-19T09:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/blog/tools_and_weapons_part_2_cybersecurity/</loc>
     <lastmod>2020-06-19T09:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/blog/tools_and_weapons_part_1_privacy/</loc>
     <lastmod>2020-06-13T09:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/ceres/</loc>
     <lastmod>2020-06-13T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/computing/</loc>
     <lastmod>2020-06-13T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/github/</loc>
     <lastmod>2020-06-13T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/blog/ceres/</loc>
     <lastmod>2020-06-13T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/open-source/</loc>
     <lastmod>2020-06-13T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/categories/open_source/</loc>
     <lastmod>2020-06-13T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/visual-regression-testing/</loc>
     <lastmod>2020-06-13T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/crowdsourcing/</loc>
     <lastmod>2020-04-22T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/folding-at-home/</loc>
     <lastmod>2020-04-22T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/blog/folding_at_home/</loc>
     <lastmod>2020-04-22T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/rosetta-at-home/</loc>
     <lastmod>2020-04-22T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/categories/starting/</loc>
     <lastmod>2020-04-22T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/containerization/</loc>
     <lastmod>2020-03-11T18:44:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/kubernetes/</loc>
     <lastmod>2020-03-11T18:44:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/blog/kubernetes_crash_course/</loc>
     <lastmod>2020-03-11T18:44:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/development/</loc>
     <lastmod>2019-12-20T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/blog/unicorn_project/</loc>
     <lastmod>2019-12-20T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/software/</loc>
     <lastmod>2019-12-20T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/unicorn-project/</loc>
     <lastmod>2019-12-20T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/devops/</loc>
     <lastmod>2019-12-09T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/phoenix-project/</loc>
     <lastmod>2019-12-09T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/blog/phoenix_project/</loc>
     <lastmod>2019-12-09T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/.png/</loc>
     <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/.tiff/</loc>
     <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/blog/image_conversion/</loc>
     <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/image-magick/</loc>
     <lastmod>2019-11-10T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/daily-driver/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/hugo/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/laptop/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/tags/lenovo/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tylerwebb.org/blog/daily-driver/</loc>
     <lastmod>2019-11-03T21:49:20+02:00</lastmod>
   </url>
-  
 </urlset>
